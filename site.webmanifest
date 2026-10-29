@@ -1,0 +1,25 @@
+{
+  "name": "Garbitegia Ivan — Lavandería de autoservicio",
+  "short_name": "Garbitegia Ivan",
+  "description": "Lavandería de autoservicio en Eibar y Ermua. Tu colada en una hora, todos los días de 8:00 a 22:00.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ee",
+  "theme_color": "#13251f",
+  "icons": [
+    {
+      "src": "assets/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
